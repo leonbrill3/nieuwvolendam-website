@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580" height="126" viewBox="0 0 580 126" xmlns="http://www.w3.org/2000/svg">
+  <!-- Star Icon -->
+  <g transform="translate(35, 63)">
+    <!-- Main 5-point star -->
+    <polygon points="0,-30 8.82,-9.27 30,-9.27 12.36,5.73 21.18,26.46 0,11.46 -21.18,26.46 -12.36,5.73 -30,-9.27 -8.82,-9.27"
+             fill="#D4A574" stroke="#B8935F" stroke-width="1.5"/>
+    <!-- Inner small star -->
+    <polygon points="0,-12 3.53,-3.71 12,-3.71 5.24,2.29 8.47,10.58 0,4.58 -8.47,10.58 -5.24,2.29 -12,-3.71 -3.53,-3.71"
+             fill="#5A5A5A" stroke="#4A4A4A" stroke-width="0.8"/>
+    <!-- Decorative circles at star points -->
+    <circle cx="0" cy="-30" r="6" fill="#E6B87D"/>
+    <circle cx="28.5" cy="-8.5" r="6" fill="#E6B87D"/>
+    <circle cx="17.6" cy="25" r="6" fill="#E6B87D"/>
+    <circle cx="-17.6" cy="25" r="6" fill="#E6B87D"/>
+    <circle cx="-28.5" cy="-8.5" r="6" fill="#E6B87D"/>
+  </g>
+
+  <!-- Text: NIEUW -->
+  <text x="100" y="80" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="600" fill="#D4A574" letter-spacing="2">NIEUW</text>
+
+  <!-- Text: VOLENDAM -->
+  <text x="270" y="80" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#5A5A5A" letter-spacing="2">VOLENDAM</text>
+</svg>
