@@ -647,6 +647,18 @@ section {
         padding: 0 20px;
     }
 
+    .logo img {
+        height: 50px;
+    }
+
+    .navbar.scrolled .logo img {
+        height: 40px;
+    }
+
+    .footer-logo img {
+        height: 40px;
+    }
+
     .hero-title {
         font-size: 36px;
     }
